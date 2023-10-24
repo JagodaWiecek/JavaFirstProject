@@ -1,0 +1,5 @@
+com\mycompany\tablica_ogloszen\Tablica_ogloszen.class
+model\Functions.class
+model\NoticeBoard.class
+model\Notice.class
+View\View.class
