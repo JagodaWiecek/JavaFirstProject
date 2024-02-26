@@ -1,0 +1,34 @@
+        <hr>
+        <form action="Parameters">
+            <input type="submit" value="run Parameters" />
+        </form>
+        <hr>
+        <form action="Form" method="GET">
+            <p>First Name:<input type=text size=20 name=firstname></p>
+            <p>Last Name:<input type=text size=20 name=lastname></p>
+            <input type="submit" value="run Form" />
+        </form>
+        <hr>
+        <form action="Forward">
+            <p><input type=radio name=data value=time checked>Current date</p>
+            <p><input type=radio name=data value=page>Page address:
+                <input type=text size=50 name=address value=http://></p>
+            <input type="submit" value="run Forward" />
+        </form>
+        <hr>
+        <form action="CookieAccess">
+            <input type="submit" value="run CookieAccess" />
+        </form>
+        <hr>
+        <form action="Mood">
+            <input type="submit" value="run Duke's Mood" />
+        </form>
+    </body>
+
+            <body style="background-color: cornsilk"></body>
+            <link rel="stylesheet" type="text/css" href="css/looks.css">
+
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
